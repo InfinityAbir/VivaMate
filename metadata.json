@@ -1,0 +1,6 @@
+{
+  "name": "VivaMate",
+  "description": "VivaMate: AI Viva Practice for oral exams, lab vivas, thesis defenses, and student exam prep.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
